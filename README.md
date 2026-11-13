@@ -33,8 +33,8 @@
   <img src="./assets/header-stats.svg" alt="Statistik GitHub" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panjidharmaputra&show_icons=true&title_color=FF3B30&icon_color=FF3B30&text_color=FFFFFF&bg_color=0D1117&border_color=FF3B30" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panjidharmaputra&layout=compact&title_color=FF3B30&text_color=FFFFFF&bg_color=0D1117&border_color=FF3B30" alt="Top Languages" />
+  <img src="./assets/stats-card.svg" alt="GitHub Stats" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=panjidharmaputra&theme=dark&border=FF3B30&stroke=FF3B30&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30" alt="GitHub Streak" />
