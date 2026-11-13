@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect x="2" y="2" width="1196" height="356" rx="14" fill="#0d1117" stroke="#ff3b30" stroke-width="3"/>
+<rect x="48" y="46" width="14" height="14" fill="#ff3b30"/>
+<text x="80" y="62" font-family="monospace" font-size="26" font-weight="bold" fill="#ff3b30">Mahasiswa Teknik Informatika</text>
+<text x="80" y="98" font-family="monospace" font-size="24" fill="#e6edf3">Universitas Pamulang</text>
+<rect x="48" y="122" width="14" height="14" fill="#ff3b30"/>
+<text x="80" y="138" font-family="monospace" font-size="26" font-weight="bold" fill="#ff3b30">Kelas</text>
+<text x="80" y="174" font-family="monospace" font-size="24" fill="#e6edf3">05TPLP026</text>
+<rect x="48" y="198" width="14" height="14" fill="#ff3b30"/>
+<text x="80" y="214" font-family="monospace" font-size="26" font-weight="bold" fill="#ff3b30">Fokus</text>
+<text x="80" y="250" font-family="monospace" font-size="24" fill="#e6edf3">AI &amp; Machine Learning  •  Web Development</text>
+<rect x="48" y="274" width="14" height="14" fill="#ff3b30"/>
+<text x="80" y="290" font-family="monospace" font-size="26" font-weight="bold" fill="#ff3b30">Proyek</text>
+<text x="80" y="326" font-family="monospace" font-size="24" fill="#e6edf3">BadrunScreen  •  Datik Batik  •  AI Tutor  •  STOREU  •  Pixel Break</text>
+</svg>
