@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="492" viewBox="0 0 1200 492">
+<defs><linearGradient id="gradA" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#00e676"/></linearGradient><linearGradient id="gradB" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e676"/><stop offset="1" stop-color="#00e5ff"/></linearGradient></defs>
 <rect width="1200" height="492" rx="14" fill="#0d1117"/>
-<rect x="24" y="16" width="1152" height="80" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<rect x="44" y="32" width="48" height="48" fill="#ff3b30"/>
+<rect x="24" y="16" width="1152" height="80" rx="10" fill="#101a16" stroke="#1d5c46" stroke-width="1"/>
+<rect x="44" y="32" width="48" height="48" fill="url(#gradA)"/>
 <rect x="53" y="35" width="6" height="6" fill="#e6edf3"/>
 <rect x="59" y="35" width="6" height="6" fill="#e6edf3"/>
 <rect x="65" y="35" width="6" height="6" fill="#e6edf3"/>
@@ -24,8 +25,38 @@
 <rect x="71" y="71" width="6" height="6" fill="#e6edf3"/>
 <text x="116" y="52" font-family="monospace" font-size="26" font-weight="bold" fill="#e6edf3">BadrunScreen</text>
 <text x="116" y="80" font-family="monospace" font-size="20" fill="#9ba3af">Hybrid AI symptom screening  —  expert system + RandomForest</text>
-<rect x="24" y="108" width="1152" height="80" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<rect x="44" y="124" width="48" height="48" fill="#ff3b30"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.0s" begin="0.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.6;1;0.6" dur="4.0s" begin="0.0s" repeatCount="indefinite"/>
+<rect x="1136" y="44" width="4" height="4" fill="#00e676"/>
+<rect x="1140" y="44" width="4" height="4" fill="#00e676"/>
+<rect x="1148" y="44" width="4" height="4" fill="#00e676"/>
+<rect x="1152" y="44" width="4" height="4" fill="#00e676"/>
+<rect x="1132" y="48" width="4" height="4" fill="#00e676"/>
+<rect x="1136" y="48" width="4" height="4" fill="#00e676"/>
+<rect x="1140" y="48" width="4" height="4" fill="#00e676"/>
+<rect x="1144" y="48" width="4" height="4" fill="#00e676"/>
+<rect x="1148" y="48" width="4" height="4" fill="#00e676"/>
+<rect x="1152" y="48" width="4" height="4" fill="#00e676"/>
+<rect x="1156" y="48" width="4" height="4" fill="#00e676"/>
+<rect x="1132" y="52" width="4" height="4" fill="#00e676"/>
+<rect x="1136" y="52" width="4" height="4" fill="#00e676"/>
+<rect x="1140" y="52" width="4" height="4" fill="#00e676"/>
+<rect x="1144" y="52" width="4" height="4" fill="#00e676"/>
+<rect x="1148" y="52" width="4" height="4" fill="#00e676"/>
+<rect x="1152" y="52" width="4" height="4" fill="#00e676"/>
+<rect x="1156" y="52" width="4" height="4" fill="#00e676"/>
+<rect x="1136" y="56" width="4" height="4" fill="#00e676"/>
+<rect x="1140" y="56" width="4" height="4" fill="#00e676"/>
+<rect x="1144" y="56" width="4" height="4" fill="#00e676"/>
+<rect x="1148" y="56" width="4" height="4" fill="#00e676"/>
+<rect x="1152" y="56" width="4" height="4" fill="#00e676"/>
+<rect x="1140" y="60" width="4" height="4" fill="#00e676"/>
+<rect x="1144" y="60" width="4" height="4" fill="#00e676"/>
+<rect x="1148" y="60" width="4" height="4" fill="#00e676"/>
+<rect x="1144" y="64" width="4" height="4" fill="#00e676"/>
+</g>
+<rect x="24" y="108" width="1152" height="80" rx="10" fill="#101a16" stroke="#1d5c46" stroke-width="1"/>
+<rect x="44" y="124" width="48" height="48" fill="url(#gradB)"/>
 <rect x="53" y="127" width="6" height="6" fill="#e6edf3"/>
 <rect x="59" y="127" width="6" height="6" fill="#e6edf3"/>
 <rect x="65" y="127" width="6" height="6" fill="#e6edf3"/>
@@ -46,8 +77,20 @@
 <rect x="71" y="163" width="6" height="6" fill="#e6edf3"/>
 <text x="116" y="144" font-family="monospace" font-size="26" font-weight="bold" fill="#e6edf3">Datik Batik</text>
 <text x="116" y="172" font-family="monospace" font-size="20" fill="#9ba3af">Website UMKM batik  —  Tangerang Selatan</text>
-<rect x="24" y="200" width="1152" height="80" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<rect x="44" y="216" width="48" height="48" fill="#ff3b30"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.4s" begin="0.5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.6;1;0.6" dur="4.4s" begin="0.5s" repeatCount="indefinite"/>
+<rect x="1148" y="138" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1148" y="142" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1140" y="146" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1144" y="146" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1148" y="146" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1152" y="146" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1156" y="146" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1148" y="150" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1148" y="154" width="4" height="4" fill="#f7ce7b"/>
+</g>
+<rect x="24" y="200" width="1152" height="80" rx="10" fill="#101a16" stroke="#1d5c46" stroke-width="1"/>
+<rect x="44" y="216" width="48" height="48" fill="url(#gradA)"/>
 <rect x="59" y="219" width="6" height="6" fill="#e6edf3"/>
 <rect x="65" y="219" width="6" height="6" fill="#e6edf3"/>
 <rect x="71" y="219" width="6" height="6" fill="#e6edf3"/>
@@ -68,8 +111,38 @@
 <rect x="77" y="255" width="6" height="6" fill="#e6edf3"/>
 <text x="116" y="236" font-family="monospace" font-size="26" font-weight="bold" fill="#e6edf3">AI Tutor Teknik Informatika</text>
 <text x="116" y="264" font-family="monospace" font-size="20" fill="#9ba3af">Portal belajar Informatika  +  AI tutor</text>
-<rect x="24" y="292" width="1152" height="80" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<rect x="44" y="308" width="48" height="48" fill="#ff3b30"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.8s" begin="1.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.6;1;0.6" dur="4.8s" begin="1.0s" repeatCount="indefinite"/>
+<rect x="1144" y="222" width="4" height="4" fill="#e6edf3"/>
+<rect x="1140" y="226" width="4" height="4" fill="#e6edf3"/>
+<rect x="1144" y="226" width="4" height="4" fill="#e6edf3"/>
+<rect x="1148" y="226" width="4" height="4" fill="#e6edf3"/>
+<rect x="1140" y="230" width="4" height="4" fill="#e6edf3"/>
+<rect x="1144" y="230" width="4" height="4" fill="#e6edf3"/>
+<rect x="1148" y="230" width="4" height="4" fill="#e6edf3"/>
+<rect x="1136" y="234" width="4" height="4" fill="#e6edf3"/>
+<rect x="1140" y="234" width="4" height="4" fill="#e6edf3"/>
+<rect x="1144" y="234" width="4" height="4" fill="#e6edf3"/>
+<rect x="1148" y="234" width="4" height="4" fill="#e6edf3"/>
+<rect x="1152" y="234" width="4" height="4" fill="#e6edf3"/>
+<rect x="1136" y="238" width="4" height="4" fill="#e6edf3"/>
+<rect x="1140" y="238" width="4" height="4" fill="#e6edf3"/>
+<rect x="1144" y="238" width="4" height="4" fill="#e6edf3"/>
+<rect x="1148" y="238" width="4" height="4" fill="#e6edf3"/>
+<rect x="1152" y="238" width="4" height="4" fill="#e6edf3"/>
+<rect x="1140" y="242" width="4" height="4" fill="#e6edf3"/>
+<rect x="1144" y="242" width="4" height="4" fill="#e6edf3"/>
+<rect x="1148" y="242" width="4" height="4" fill="#e6edf3"/>
+<rect x="1136" y="246" width="4" height="4" fill="#e6edf3"/>
+<rect x="1152" y="246" width="4" height="4" fill="#e6edf3"/>
+<rect x="1132" y="250" width="4" height="4" fill="#e6edf3"/>
+<rect x="1156" y="250" width="4" height="4" fill="#e6edf3"/>
+<rect x="1140" y="254" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1144" y="254" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1148" y="254" width="4" height="4" fill="#f7ce7b"/>
+</g>
+<rect x="24" y="292" width="1152" height="80" rx="10" fill="#101a16" stroke="#1d5c46" stroke-width="1"/>
+<rect x="44" y="308" width="48" height="48" fill="url(#gradB)"/>
 <rect x="59" y="311" width="6" height="6" fill="#e6edf3"/>
 <rect x="65" y="311" width="6" height="6" fill="#e6edf3"/>
 <rect x="71" y="311" width="6" height="6" fill="#e6edf3"/>
@@ -87,8 +160,37 @@
 <rect x="71" y="347" width="6" height="6" fill="#e6edf3"/>
 <text x="116" y="328" font-family="monospace" font-size="26" font-weight="bold" fill="#e6edf3">STOREU</text>
 <text x="116" y="356" font-family="monospace" font-size="20" fill="#9ba3af">Marketplace kelompok  —  Digital Entrepreneurship</text>
-<rect x="24" y="384" width="1152" height="80" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<rect x="44" y="400" width="48" height="48" fill="#ff3b30"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.2s" begin="1.5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.6;1;0.6" dur="5.2s" begin="1.5s" repeatCount="indefinite"/>
+<rect x="1136" y="318" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1140" y="318" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1144" y="318" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1148" y="318" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1152" y="318" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1132" y="322" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1156" y="322" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1132" y="326" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1140" y="326" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1148" y="326" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1156" y="326" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1132" y="330" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1156" y="330" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1132" y="334" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1144" y="334" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1156" y="334" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1132" y="338" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1140" y="338" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1144" y="338" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1148" y="338" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1156" y="338" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1136" y="342" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1140" y="342" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1144" y="342" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1148" y="342" width="4" height="4" fill="#7cf2c7"/>
+<rect x="1152" y="342" width="4" height="4" fill="#7cf2c7"/>
+</g>
+<rect x="24" y="384" width="1152" height="80" rx="10" fill="#101a16" stroke="#1d5c46" stroke-width="1"/>
+<rect x="44" y="400" width="48" height="48" fill="url(#gradA)"/>
 <rect x="53" y="403" width="6" height="6" fill="#e6edf3"/>
 <rect x="59" y="403" width="6" height="6" fill="#e6edf3"/>
 <rect x="65" y="403" width="6" height="6" fill="#e6edf3"/>
@@ -106,4 +208,53 @@
 <rect x="53" y="439" width="6" height="6" fill="#e6edf3"/>
 <text x="116" y="420" font-family="monospace" font-size="26" font-weight="bold" fill="#e6edf3">Pixel Break</text>
 <text x="116" y="448" font-family="monospace" font-size="20" fill="#9ba3af">Animasi logo pixel  —  intro 10 detik</text>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.6s" begin="2.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.6;1;0.6" dur="5.6s" begin="2.0s" repeatCount="indefinite"/>
+<rect x="1124" y="408" width="4" height="4" fill="#00e5ff"/>
+<rect x="1148" y="408" width="4" height="4" fill="#00e5ff"/>
+<rect x="1128" y="412" width="4" height="4" fill="#00e5ff"/>
+<rect x="1144" y="412" width="4" height="4" fill="#00e5ff"/>
+<rect x="1124" y="416" width="4" height="4" fill="#00e5ff"/>
+<rect x="1128" y="416" width="4" height="4" fill="#00e5ff"/>
+<rect x="1132" y="416" width="4" height="4" fill="#00e5ff"/>
+<rect x="1136" y="416" width="4" height="4" fill="#00e5ff"/>
+<rect x="1140" y="416" width="4" height="4" fill="#00e5ff"/>
+<rect x="1144" y="416" width="4" height="4" fill="#00e5ff"/>
+<rect x="1148" y="416" width="4" height="4" fill="#00e5ff"/>
+<rect x="1120" y="420" width="4" height="4" fill="#00e5ff"/>
+<rect x="1124" y="420" width="4" height="4" fill="#00e5ff"/>
+<rect x="1132" y="420" width="4" height="4" fill="#00e5ff"/>
+<rect x="1136" y="420" width="4" height="4" fill="#00e5ff"/>
+<rect x="1140" y="420" width="4" height="4" fill="#00e5ff"/>
+<rect x="1148" y="420" width="4" height="4" fill="#00e5ff"/>
+<rect x="1152" y="420" width="4" height="4" fill="#00e5ff"/>
+<rect x="1116" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1120" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1124" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1128" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1132" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1136" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1140" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1144" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1148" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1152" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1156" y="424" width="4" height="4" fill="#00e5ff"/>
+<rect x="1116" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1124" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1128" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1132" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1136" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1140" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1144" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1148" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1156" y="428" width="4" height="4" fill="#00e5ff"/>
+<rect x="1116" y="432" width="4" height="4" fill="#00e5ff"/>
+<rect x="1124" y="432" width="4" height="4" fill="#00e5ff"/>
+<rect x="1148" y="432" width="4" height="4" fill="#00e5ff"/>
+<rect x="1156" y="432" width="4" height="4" fill="#00e5ff"/>
+<rect x="1128" y="436" width="4" height="4" fill="#00e5ff"/>
+<rect x="1132" y="436" width="4" height="4" fill="#00e5ff"/>
+<rect x="1140" y="436" width="4" height="4" fill="#00e5ff"/>
+<rect x="1144" y="436" width="4" height="4" fill="#00e5ff"/>
+</g>
 </svg>
