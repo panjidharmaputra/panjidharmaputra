@@ -1,15 +1,68 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-<rect x="2" y="2" width="1196" height="356" rx="14" fill="#0d1117" stroke="#ff3b30" stroke-width="3"/>
-<rect x="48" y="46" width="14" height="14" fill="#ff3b30"/>
-<text x="80" y="62" font-family="monospace" font-size="26" font-weight="bold" fill="#ff3b30">Mahasiswa Teknik Informatika</text>
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#00e676;#00e5ff" dur="5s" repeatCount="indefinite"/></stop><stop offset="0.5" stop-color="#7cf2c7"><animate attributeName="stop-color" values="#7cf2c7;#5eead4;#7cf2c7" dur="5s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#00e676"><animate attributeName="stop-color" values="#00e676;#00e5ff;#00e676" dur="5s" repeatCount="indefinite"/></stop></linearGradient><radialGradient id="blobG" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#00e676" stop-opacity="0.30"/><stop offset="1" stop-color="#00e676" stop-opacity="0"/></radialGradient><radialGradient id="blobC" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#00e5ff" stop-opacity="0.28"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></radialGradient></defs>
+<rect x="2" y="2" width="1196" height="356" rx="14" fill="#0d1117" stroke="url(#grad)" stroke-width="3"/>
+<g><ellipse cx="216" cy="126" rx="288" ry="198" fill="url(#blobG)"><animateTransform attributeName="transform" type="translate" values="-18 0;18 0;-18 0" dur="9s" repeatCount="indefinite"/></ellipse></g>
+<g><ellipse cx="1020" cy="234" rx="312" ry="216" fill="url(#blobC)"><animateTransform attributeName="transform" type="translate" values="18 0;-18 0;18 0" dur="11s" repeatCount="indefinite"/></ellipse></g>
+<circle cx="683" cy="89" r="2" fill="#00e5ff"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="168" cy="286" r="2" fill="#ffffff"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="138" cy="271" r="2" fill="#00e5ff"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="908" cy="226" r="2" fill="#00e5ff"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="1148" cy="229" r="2" fill="#ffffff"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="273" cy="126" r="2" fill="#ffffff"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="146" cy="307" r="2" fill="#00e5ff"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="472" cy="35" r="2" fill="#00e5ff"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.8s" repeatCount="indefinite"/></circle>
+<rect x="48" y="46" width="14" height="14" fill="#00e676"/>
+<text x="80" y="62" font-family="monospace" font-size="26" font-weight="bold" fill="#00e5ff">Mahasiswa Teknik Informatika</text>
 <text x="80" y="98" font-family="monospace" font-size="24" fill="#e6edf3">Universitas Pamulang</text>
-<rect x="48" y="122" width="14" height="14" fill="#ff3b30"/>
-<text x="80" y="138" font-family="monospace" font-size="26" font-weight="bold" fill="#ff3b30">Kelas</text>
+<rect x="48" y="122" width="14" height="14" fill="#00e676"/>
+<text x="80" y="138" font-family="monospace" font-size="26" font-weight="bold" fill="#00e5ff">Kelas</text>
 <text x="80" y="174" font-family="monospace" font-size="24" fill="#e6edf3">05TPLP026</text>
-<rect x="48" y="198" width="14" height="14" fill="#ff3b30"/>
-<text x="80" y="214" font-family="monospace" font-size="26" font-weight="bold" fill="#ff3b30">Fokus</text>
+<rect x="48" y="198" width="14" height="14" fill="#00e676"/>
+<text x="80" y="214" font-family="monospace" font-size="26" font-weight="bold" fill="#00e5ff">Fokus</text>
 <text x="80" y="250" font-family="monospace" font-size="24" fill="#e6edf3">AI &amp; Machine Learning  •  Web Development</text>
-<rect x="48" y="274" width="14" height="14" fill="#ff3b30"/>
-<text x="80" y="290" font-family="monospace" font-size="26" font-weight="bold" fill="#ff3b30">Proyek</text>
+<rect x="48" y="274" width="14" height="14" fill="#00e676"/>
+<text x="80" y="290" font-family="monospace" font-size="26" font-weight="bold" fill="#00e5ff">Proyek</text>
 <text x="80" y="326" font-family="monospace" font-size="24" fill="#e6edf3">BadrunScreen  •  Datik Batik  •  AI Tutor  •  STOREU  •  Pixel Break</text>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.2s" begin="0.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.6;1;0.6" dur="4.2s" begin="0.0s" repeatCount="indefinite"/>
+<rect x="1104" y="30" width="4" height="4" fill="#00e676"/>
+<rect x="1108" y="30" width="4" height="4" fill="#00e676"/>
+<rect x="1116" y="30" width="4" height="4" fill="#00e676"/>
+<rect x="1120" y="30" width="4" height="4" fill="#00e676"/>
+<rect x="1100" y="34" width="4" height="4" fill="#00e676"/>
+<rect x="1104" y="34" width="4" height="4" fill="#00e676"/>
+<rect x="1108" y="34" width="4" height="4" fill="#00e676"/>
+<rect x="1112" y="34" width="4" height="4" fill="#00e676"/>
+<rect x="1116" y="34" width="4" height="4" fill="#00e676"/>
+<rect x="1120" y="34" width="4" height="4" fill="#00e676"/>
+<rect x="1124" y="34" width="4" height="4" fill="#00e676"/>
+<rect x="1100" y="38" width="4" height="4" fill="#00e676"/>
+<rect x="1104" y="38" width="4" height="4" fill="#00e676"/>
+<rect x="1108" y="38" width="4" height="4" fill="#00e676"/>
+<rect x="1112" y="38" width="4" height="4" fill="#00e676"/>
+<rect x="1116" y="38" width="4" height="4" fill="#00e676"/>
+<rect x="1120" y="38" width="4" height="4" fill="#00e676"/>
+<rect x="1124" y="38" width="4" height="4" fill="#00e676"/>
+<rect x="1104" y="42" width="4" height="4" fill="#00e676"/>
+<rect x="1108" y="42" width="4" height="4" fill="#00e676"/>
+<rect x="1112" y="42" width="4" height="4" fill="#00e676"/>
+<rect x="1116" y="42" width="4" height="4" fill="#00e676"/>
+<rect x="1120" y="42" width="4" height="4" fill="#00e676"/>
+<rect x="1108" y="46" width="4" height="4" fill="#00e676"/>
+<rect x="1112" y="46" width="4" height="4" fill="#00e676"/>
+<rect x="1116" y="46" width="4" height="4" fill="#00e676"/>
+<rect x="1112" y="50" width="4" height="4" fill="#00e676"/>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.6s" begin="0.8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.6;1;0.6" dur="4.6s" begin="0.8s" repeatCount="indefinite"/>
+<rect x="1128" y="300" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1128" y="304" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1120" y="308" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1124" y="308" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1128" y="308" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1132" y="308" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1136" y="308" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1128" y="312" width="4" height="4" fill="#f7ce7b"/>
+<rect x="1128" y="316" width="4" height="4" fill="#f7ce7b"/>
+</g>
 </svg>
